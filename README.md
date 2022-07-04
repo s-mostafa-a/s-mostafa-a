@@ -1,4 +1,3 @@
-### Hi there 👋
 ![s-mostafa-a stats](https://github-readme-stats.vercel.app/api?username=s-mostafa-a&count_private=true&show_icons=true&theme=github_dark)
 <!--
 **s-mostafa-a/s-mostafa-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
